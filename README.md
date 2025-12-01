@@ -1,92 +1,30 @@
-<!-- =========================
-     FULL MODERN README
-     Paste into README.md
-     ========================= -->
-
-<!-- ========== Custom SVG Banner (animated gradient) ========== -->
 <p align="center">
   <img
     alt="banner"
-    src='data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8"?>
-      <svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" preserveAspectRatio="xMidYMid slice">
-        <defs>
-          <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%">
-            <stop offset="0%" stop-color="%23ff6b6b">
-              <animate attributeName="stop-color" values="%23ff6b6b;%23ff9a6b;%23ffd36b;%23a18cff;%23ff6b6b" dur="10s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="50%" stop-color="%236b8bff">
-              <animate attributeName="stop-color" values="%236b8bff;%236bffd3;%23ffd36b;%23ff6b6b;%236b8bff" dur="10s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="100%" stop-color="%23b56bff">
-              <animate attributeName="stop-color" values="%23b56bff;%23ff6b6b;%236b8bff;%23ffd36b;%23b56bff" dur="10s" repeatCount="indefinite"/>
-            </stop>
-          </linearGradient>
-          <filter id="f" x="-20%" y="-20%" width="140%" height="140%">
-            <feGaussianBlur stdDeviation="20" result="b"/>
-            <feComposite in="SourceGraphic" in2="b" operator="over"/>
-          </filter>
-        </defs>
-
-        <rect width="900" height="140" fill="url(%23g)" rx="18" />
-        <g transform="translate(28,32)">
-          <text x="0" y="38" fill="white" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">
-            Ahanaf Shahriar Nafiz
-          </text>
-          <text x="0" y="72" fill="white" opacity="0.9" font-family="Inter, Arial, sans-serif" font-size="14">
-            Creative Frontend Developer • AI Enthusiast • Dhaka, Bangladesh
-          </text>
-        </g>
-
-        <!-- soft glow circle decorations -->
-        <circle cx="820" cy="30" r="40" fill="white" opacity="0.06" />
-        <circle cx="770" cy="110" r="70" fill="white" opacity="0.04" />
-        <rect x="0" y="0" width="900" height="140" rx="18" fill="transparent" stroke="rgba(255,255,255,0.06)"/>
-      </svg>'
+    src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" stop-color="%23ff6b6b"><animate attributeName="stop-color" values="%23ff6b6b;%23ff9a6b;%23ffd36b;%23a18cff;%23ff6b6b" dur="10s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="%236b8bff"><animate attributeName="stop-color" values="%236b8bff;%236bffd3;%23ffd36b;%23ff6b6b;%236b8bff" dur="10s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="%23b56bff"><animate attributeName="stop-color" values="%23b56bff;%23ff6b6b;%236b8bff;%23ffd36b;%23b56bff" dur="10s" repeatCount="indefinite"/></stop></linearGradient><filter id="f" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="20" result="b"/><feComposite in="SourceGraphic" in2="b" operator="over"/></filter></defs><rect width="900" height="140" fill="url(%23g)" rx="18" /><g transform="translate(28,32)"><text x="0" y="38" fill="white" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Ahanaf Shahriar Nafiz</text><text x="0" y="72" fill="white" opacity="0.9" font-family="Inter, Arial, sans-serif" font-size="14">Creative Frontend Developer • AI Enthusiast • Dhaka, Bangladesh</text></g><circle cx="820" cy="30" r="40" fill="white" opacity="0.06" /><circle cx="770" cy="110" r="70" fill="white" opacity="0.04" /><rect x="0" y="0" width="900" height="140" rx="18" fill="transparent" stroke="rgba(255,255,255,0.06)"/></svg>'
     width="100%"
     style="max-width:900px;border-radius:18px;display:block;margin:0 auto 18px auto;"
   />
 </p>
 
-<!-- ========== Typing Header (Readme-typing SVG) ========== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Ahanaf+Shahriar+Nafiz;Frontend+Developer+%26+AI+Enthusiast;I+build+clean+modern+UI+experiences" alt="Typing header"/>
 </h1>
 
 <p align="center"><em>Turning ideas into clean, functional, and modern user experiences 🚀</em></p>
 
-<!-- ========== Animated Gradient Divider (SVG) ========== -->
 <p align="center" style="margin:18px 0;">
   <img
     alt="gradient-divider"
-    src='data:image/svg+xml;utf8,<?xml version="1.0"?>
-      <svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" preserveAspectRatio="none">
-        <defs>
-          <linearGradient id="grad" x1="0%" x2="100%">
-            <stop offset="0%" stop-color="%23ff6b6b">
-              <animate attributeName="stop-color" values="%23ff6b6b;%23ffd36b;%236b8bff;%23ff6b6b" dur="6s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="50%" stop-color="%236b8bff">
-              <animate attributeName="stop-color" values="%236b8bff;%23b56bff;%23ff9a6b;%236b8bff" dur="6s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="100%" stop-color="%23b56bff">
-              <animate attributeName="stop-color" values="%23b56bff;%23ff6b6b;%23ffd36b;%23b56bff" dur="6s" repeatCount="indefinite"/>
-            </stop>
-          </linearGradient>
-        </defs>
-
-        <rect x="0" y="0" width="900" height="24" rx="12" fill="url(%23grad)" />
-      </svg>'
+    src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" preserveAspectRatio="none"><defs><linearGradient id="grad" x1="0%" x2="100%"><stop offset="0%" stop-color="%23ff6b6b"><animate attributeName="stop-color" values="%23ff6b6b;%23ffd36b;%236b8bff;%23ff6b6b" dur="6s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="%236b8bff"><animate attributeName="stop-color" values="%236b8bff;%23b56bff;%23ff9a6b;%236b8bff" dur="6s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="%23b56bff"><animate attributeName="stop-color" values="%23b56bff;%23ff6b6b;%23ffd36b;%23b56bff" dur="6s" repeatCount="indefinite"/></stop></linearGradient></defs><rect x="0" y="0" width="900" height="24" rx="12" fill="url(%23grad)" /></svg>'
     width="100%"
     style="max-width:900px;border-radius:12px;display:block;margin:6px auto 18px auto;"
   />
 </p>
 
-<!-- ========== Main Cards Container (glassmorphism-like cards) ========== -->
 <table align="center" cellpadding="12" cellspacing="12" style="max-width:900px;width:100%;margin:auto;">
   <tr>
-    <!-- Profile Card -->
     <td valign="top" style="width:48%;border-radius:14px;padding:16px;background:rgba(255,255,255,0.02);box-shadow:0 8px 30px rgba(2,6,23,0.6);backdrop-filter: blur(8px);-webkit-backdrop-filter: blur(8px);">
-      <!-- Replace AVATAR_URL with your AI-generated 3D avatar image URL -->
       <p style="margin:0 0 12px 0;display:flex;align-items:center;gap:12px;">
         <img src="https://avatars.dicebear.com/api/pixel-art-neutral/fizeeeti0n.svg" alt="3D Avatar Placeholder" width="88" height="88" style="border-radius:16px;box-shadow:0 6px 20px rgba(0,0,0,0.45);"/>
         <span>
@@ -109,7 +47,6 @@
       </p>
     </td>
 
-    <!-- Stats Card -->
     <td valign="top" style="width:48%;border-radius:14px;padding:16px;background:linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(2,6,23,0.6);backdrop-filter: blur(6px);-webkit-backdrop-filter: blur(6px);">
       <p style="margin:0 0 12px 0;">
         <strong style="font-size:16px;color:#fff;">GitHub Stats & Activity</strong><br/>
@@ -117,36 +54,22 @@
       </p>
 
       <p style="margin:12px 0 0 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center;">
-        <!-- GitHub Stats (read-only SVG card) -->
         <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=fizeeeti0n&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" width="280" alt="git-stats"/>
 
-        <!-- Streaks -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizeeeti0n&theme=dracula&hide_border=true" width="280" alt="streak-stats"/>
       </p>
 
       <p style="margin-top:10px;">
-        <!-- Top langs -->
         <img src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=fizeeeti0n&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="top-langs" width="100%"/>
       </p>
     </td>
   </tr>
 
   <tr>
-    <!-- Spotify Now Playing (replace placeholders) -->
     <td valign="top" colspan="2" style="border-radius:14px;padding:16px;background:rgba(255,255,255,0.01);box-shadow:0 8px 30px rgba(2,6,23,0.6);">
       <strong style="font-size:16px;color:#fff;">Now Playing on Spotify</strong>
       <p style="color:#cfcfe2;font-size:13px;margin-top:6px;">Live track (image-card). If you want this to show your real playing track replace the SPOTIFY placeholders below.</p>
 
-      <!--
-         NOTE:
-         - You must replace the placeholder below with a "now playing" SVG provider or your token-enabled endpoint.
-         - Example providers (you can self-host or use public ones):
-            * https://spotify-now-playing-git-main-... (varies)
-            * https://spotify-readme-proxy.example/api/now-playing?user=YOUR_USERNAME
-         - If you do not have a provider, keep the fallback image (static sample) or generate your own.
-      -->
-
-      <!-- Fallback sample (static card) -->
       <table cellpadding="6" cellspacing="0" style="margin-top:12px;border-radius:10px;background:linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));width:100%;">
         <tr>
           <td style="width:84px;padding:8px;">
@@ -174,7 +97,6 @@
 
   <tr>
     <td colspan="2" style="padding:0;">
-      <!-- Contributions Snake & Footer -->
       <div align="center" style="margin-top:18px;">
         <img src="https://contrib.rocks/image?username=fizeeeti0n" alt="contrib-snake" style="max-width:900px;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6);" />
       </div>
@@ -187,40 +109,21 @@
   </tr>
 </table>
 
-<!-- ========== Gradient Animated Divider (repeated) ========== -->
 <p align="center" style="margin-top:22px;">
   <img
     alt="gradient-divider-2"
-    src='data:image/svg+xml;utf8,<?xml version="1.0"?>
-      <svg xmlns="http://www.w3.org/2000/svg" width="900" height="18" preserveAspectRatio="none">
-        <defs>
-          <linearGradient id="g2" x1="0%" x2="100%">
-            <stop offset="0%" stop-color="%23ffd36b">
-              <animate attributeName="offset" values="0%;1;0%" dur="8s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="50%" stop-color="%23b56bff">
-              <animate attributeName="offset" values="0%;1;0%" dur="8s" repeatCount="indefinite"/>
-            </stop>
-            <stop offset="100%" stop-color="%236b8bff">
-              <animate attributeName="offset" values="0%;1;0%" dur="8s" repeatCount="indefinite"/>
-            </stop>
-          </linearGradient>
-        </defs>
-        <rect x="0" y="0" width="900" height="18" rx="9" fill="url(%23g2)"/>
-      </svg>'
+    src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="900" height="18" preserveAspectRatio="none"><defs><linearGradient id="g2" x1="0%" x2="100%"><stop offset="0%" stop-color="%23ffd36b"><animate attributeName="stop-color" values="%23ffd36b;%23b56bff;%236b8bff;%23ffd36b" dur="8s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="%23b56bff"><animate attributeName="stop-color" values="%23b56bff;%236b8bff;%23ffd36b;%23b56bff" dur="8s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="%236b8bff"><animate attributeName="stop-color" values="%236b8bff;%23ffd36b;%23b56bff;%236b8bff" dur="8s" repeatCount="indefinite"/></stop></linearGradient></defs><rect x="0" y="0" width="900" height="18" rx="9" fill="url(%23g2)"/></svg>'
     width="100%"
     style="max-width:900px;border-radius:9px;display:block;margin:12px auto 18px auto;"
   />
 </p>
 
-<!-- ========== Footer Badges (custom badges) ========== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-%2300B8FF?style=for-the-badge&logo=react&logoColor=white" alt="frontend-badge" />
   <img src="https://img.shields.io/badge/AI-Powered-%23FF6B6B?style=for-the-badge&logo=googleai&logoColor=white" alt="ai-badge" />
   <img src="https://img.shields.io/badge/Design-UI%2FUX-%23B56BFF?style=for-the-badge&logo=figma&logoColor=white" alt="design-badge" />
 </p>
 
-<!-- ========== Notes (small) ========== -->
 <p align="center" style="color:#9f9fae;font-size:12px;margin-top:6px;">
   Replace avatar, Spotify endpoint and other placeholders with your real assets for full effect.
 </p>
