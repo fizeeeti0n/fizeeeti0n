@@ -1,12 +1,11 @@
 <h2 align="left">Hi 👋! My name is Ahanaf Shahriar Nafiz and I'm a Creative Frontend Developer and AI Enthusiast, from Dhaka,Bangladesh</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fizeeeti0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=fizeeeti0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fizeeeti0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fizeeeti0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMwM2VxaG1uejRuZ3M4MzAyZmp1dnhtYnEyNW80bDB2aDJuejY2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" height="150" alt="Goku animation" />
+<img src="https://media.giphy.com/media/CY3A9zOlZR8uhFbeok/giphy.gif" height="150" alt="Goku animation" />
 </p>
 
 <br clear="both">
