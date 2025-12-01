@@ -1,41 +1,102 @@
-<h2 align="left">Hi 👋! My name is Ahanaf Shahriar Nafiz and I'm a Creative Frontend Developer and AI Enthusiast, from Dhaka,Bangladesh</h2>
+<!-- Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF6B81&center=true&vCenter=true&width=600&lines=Ahanaf+Shahriar+Nafiz;Frontend+Developer;AI+Enthusiast;Creative+Problem+Solver;Tech+Explorer" />
+</h1>
+
+<h3 align="center">Turning ideas into clean, functional, and modern user experiences 🚀</h3>
+
+<br/>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/fizeeeti0n/count.svg" />
+</p>
+
+<br/>
+
+<!-- Stats Section -->
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats-git-masterrk.vercel.app/api?username=fizeeeti0n&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
+    height="160"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fizeeeti0n&theme=dracula" 
+    height="160"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fizeeeti0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+
+  <img 
+    src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=fizeeeti0n&layout=compact&langs_count=6&theme=dracula" 
+    height="150"
+    alt="Top Languages"
+  />
+
 </div>
 
+<br/><br/>
+
+<!-- Tech Stack Section -->
+<h2 align="left">Tech Stack 🔥</h2>
+
+<div align="left">
+
+  <!-- Custom Badges -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+
+</div>
+
+<br/><br/>
+
+<!-- About Me GIF -->
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizeeeti0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMwM2VxaG1uejRuZ3M4MzAyZmp1dnhtYnEyNW84bDB2aDJuejY2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" height="150" alt="Goku animation" />
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMwM2VxaG1uejRuZ3M4MzAyZmp1dnhtYnEyNW84bDB2aDJuejY2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CY3A9zOlZR8uhFbeok/giphy.gif" 
+    height="200"
+    alt="Goku GIF"
+  />
 </div>
 
-<br clear="both">
+<br/><br/>
+
+<!-- Contact Section -->
+<h2 align="left">Connect With Me 📱</h2>
 
 <div align="left">
-<h2>Tech Stack🔥</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+  <a href="https://www.instagram.com/fizeeeti0n" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+
+  <a href="https://discord.com/users/820136341634547762" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+  </a>
+
+  <a href="https://www.facebook.com/fizeeeeti0n" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/fizeeeti0n" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+
+  <a href="mailto:ahanaf.shahriar.nafiz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+
 </div>
-
-<div align="left">
-<h2>Contact Me📱</h2>
-  <a href="https://www.instagram.com/fizeeeti0n" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://discord.com/users/820136341634547762" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://www.facebook.com/fizeeeeti0n" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" /></a>
-  <a href="https://www.linkedin.com/in/fizeeeti0n?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="mailto:ahanaf.shahriar.nafiz@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
-</div>
-
-<br clear="both">
-
