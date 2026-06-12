@@ -243,13 +243,7 @@ Embedded within the growth team at Bangladesh's largest EdTech platform, contrib
 
 ---
 
-## ◈ GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fizeeeti0n&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
