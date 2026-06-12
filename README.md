@@ -215,31 +215,12 @@ Embedded within the growth team at Bangladesh's largest EdTech platform, contrib
 
 ---
 
-## ◈ Coding Profiles
 
-<div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
-
-</div>
 
 ---
 
-## ◈ GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fizeeeti0n&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&icon_color=A78BFA&title_color=A78BFA&text_color=C9D1D9&hide_border=false&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizeeeti0n&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=A78BFA&text_color=C9D1D9&hide_border=false&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=fizeeeti0n&theme=tokyonight&background=0D1117&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=6D28D9&sideLabels=6D28D9&dates=C9D1D9&hide_border=false" />
-
-</div>
 
 ---
 
@@ -307,7 +288,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-ahanaf.shahriar.nafiz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahanaf.shahriar.nafiz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fizeeeti0n)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-1F2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fizeeeti0n)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/fizeeeti0n)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://fizeeeti0n.vercel.app/)
 
 </div>
 
