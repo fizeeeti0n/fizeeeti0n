@@ -76,11 +76,11 @@ I operate with a product engineering mindset: every interface decision is a UX d
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| LLM API Integration | ██████████ Advanced | Gemini API, OpenAI API — production-level prompt workflows |
+| LLM API Integration | ███████░░ Proficient | Gemini API, OpenAI API — production-level prompt workflows |
 | Prompt Engineering | █████████░ Advanced | Context chaining, ATS optimization, relevance tuning |
 | NLP Concepts | ████████░░ Proficient | Keyword extraction, document Q&A, semantic matching |
-| AI Workflow Automation | ████████░░ Proficient | Automated posting systems, analytics pipelines |
-| Frontend AI UX | ███████░░░ Proficient | Latency-optimized AI interfaces, async response rendering |
+| AI Workflow Automation | ██████████ Advanced | Automated posting systems, analytics pipelines |
+| Frontend AI UX | ██████████ Advanced| Latency-optimized AI interfaces, async response rendering |
 
 </div>
 
@@ -215,28 +215,6 @@ Embedded within the growth team at Bangladesh's largest EdTech platform, contrib
 
 ---
 
-
-
-
----
-
-
-
----
-
-
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fizeeeti0n&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## ◈ Contribution Snake
 
