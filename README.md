@@ -58,9 +58,9 @@ I operate with a product engineering mindset: every interface decision is a UX d
 
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,vercel&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+**Backend **
 
-[![Backend](https://skillicons.dev/icons?i=django,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)
 
 **Cloud, DevOps & Tooling**
 
