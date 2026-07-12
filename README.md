@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=180&section=header&text=Ahanaf%20Shahriar%20Nafiz&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%7C%20AI%20Application%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI-Powered+Web+Applications;React.js+%7C+LLM+Integration+%7C+Frontend+Engineering;Turning+Complex+Problems+into+Elegant+Interfaces)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img src="assets/dark.svg" alt="Ahanaf Shahriar Nafiz" width="100%" />
+</picture>
 
 <br/>
 
@@ -18,7 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-1F2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fizeeeti0n)
 
 <br/>
-
 
 </div>
 
