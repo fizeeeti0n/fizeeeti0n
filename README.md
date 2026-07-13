@@ -103,7 +103,7 @@ I operate with a product engineering mindset: every interface decision is a UX d
 | **Performance** | 25% reduction in API latency through prompt pipeline optimization |
 | **AI Accuracy** | ~15% improvement in response relevance via engineered context prompts |
 | **Impact** | Enables students to ask unlimited questions grounded in their own PDF content |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/fizeeeti0n) |
+
 
 UniStudy AI addresses a core problem in student workflows: the inability to efficiently extract answers from long-form academic documents. Rather than searching manually, users upload their PDF and query it conversationally. The system uses carefully engineered prompts to ground Gemini's responses exclusively in the uploaded document's context, significantly reducing hallucination and improving answer precision for academic use cases.
 
@@ -123,7 +123,7 @@ UniStudy AI addresses a core problem in student workflows: the inability to effi
 | **Performance** | Real-time scoring and generation with streaming-optimized prompt design |
 | **NLP Techniques** | ATS keyword matching, semantic gap analysis, density scoring |
 | **Impact** | Reduces manual CV-to-JD alignment effort, increases ATS pass-through likelihood |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/fizeeeti0n) |
+
 
 ApexApply AI bridges the gap between a candidate's existing CV and what a specific job description demands. The system parses both the CV and JD, runs NLP-based keyword density and semantic relevance analysis, computes an ATS compatibility score, and generates a tailored cover letter calibrated to the role. This represents a practical application of prompt chaining and structured output engineering using Gemini's API — delivering recruiter-level feedback at zero marginal cost.
 
@@ -143,81 +143,12 @@ ApexApply AI bridges the gap between a candidate's existing CV and what a specif
 | **Performance** | 30% reduction in code redundancy via component-driven architecture |
 | **Deployment** | Production deployment on Vercel with CI/CD integration |
 | **Impact** | Demonstrated mastery of React component patterns and responsive design systems |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/fizeeeti0n) |
-
 This project was an architectural exercise in translating a complex, content-heavy platform into a modular React codebase. Component abstraction was prioritized to eliminate repetition across sections, producing a clean and maintainable structure deployable to production. Tailwind CSS was used to enforce a consistent design system without custom stylesheet overhead.
 
 </details>
 
----
-
-## ◈ Experience
-
-### Digital Marketing Intern · **10 Minute School**
-`Jul 2025 – Oct 2025` · Dhaka, Bangladesh
-
-Embedded within the growth team at Bangladesh's largest EdTech platform, contributing at the intersection of digital marketing, engineering collaboration, and AI automation.
-
-- Managed and optimized cross-platform advertising campaigns, achieving a 20% increase in user engagement across active campaigns
-- Automated analytics reporting pipelines using Google Sheets and Google Analytics, eliminating manual reporting overhead
-- Collaborated directly with product and engineering teams to improve landing page UX, performance, and conversion flow
-- Designed and implemented an AI-based automated content posting system that eliminated manual scheduling errors and reduced operational overhead
-
-![Marketing](https://img.shields.io/badge/Digital%20Marketing-6D28D9?style=flat-square)
-![Analytics](https://img.shields.io/badge/Google%20Analytics-4F46E5?style=flat-square&logo=googleanalytics&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-7C3AED?style=flat-square)
-![Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-5B21B6?style=flat-square)
-
----
-
-### Vendor Manager · **Freelance (Remote)**
-`Jun 2023 – Dec 2023`
-
-- Coordinated delivery pipelines across 10+ vendors, maintaining on-time project completion rates
-- Automated inter-vendor communication workflows, substantially reducing operational turnaround time and coordination friction
-
-![Project Management](https://img.shields.io/badge/Project%20Management-6D28D9?style=flat-square)
-![Automation](https://img.shields.io/badge/Workflow%20Automation-4F46E5?style=flat-square)
-![Remote Operations](https://img.shields.io/badge/Remote%20Operations-7C3AED?style=flat-square)
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 API Latency Optimization | Reduced Gemini API response latency by 25% through prompt pipeline engineering in UniStudy AI |
-| 🏆 AI Response Accuracy | Improved LLM response relevance by ~15% via context-grounded prompt architecture |
-| 🏆 Code Architecture | Achieved 30% reduction in codebase redundancy through component-driven React architecture |
-| 🏆 Campaign Growth | Delivered 20% engagement increase across ad campaigns at 10 Minute School |
-| 🏆 Vendor Coordination | Managed 10+ vendor relationships with automated workflows reducing turnaround time |
-| 🏆 AI Automation | Eliminated scheduling errors via AI-based automated posting system at scale |
-
-</div>
-
----
-
-## ◈ Certifications
-
-<div align="center">
-
-**Deloitte**
-
-![Deloitte](https://img.shields.io/badge/Data%20Analytics%20Virtual%20Internship-Deloitte%20%7C%202025-86EFAC?style=for-the-badge&logo=deloitte&logoColor=white)
-
-**10 Minute School**
-
-![Excel](https://img.shields.io/badge/Advanced%20Excel%20%7C%20Formulas%20%26%20Dashboards-2025-A78BFA?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing%20Internship%20Completion-2025-818CF8?style=for-the-badge&logo=googleads&logoColor=white)
-
-</div>
-
----
 
 
-## ◈ Contribution Snake
 
 <div align="center">
 
